@@ -1,0 +1,26 @@
+{
+  "name": "Duong Tung Phong Thuy",
+  "displayName": "Duong Tung Phong Thuy",
+  "expo": {
+    "name": "Duong Tung Phong Thuy",
+    "slug": "Duong Tung Phong Thuy",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/fengshui_logo.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "web": {
+      "favicon": "./assets/images/favicon.png"
+    }
+  }
+}

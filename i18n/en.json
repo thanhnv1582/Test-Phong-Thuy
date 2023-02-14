@@ -1,0 +1,175 @@
+{
+  "translation": {
+    "_local": "en",
+
+    "Qi Men Strategy": "Qi Men Strategy",
+    "Qi Men Dun Jia Pro": "Qi Men Dun Jia Pro",
+
+    "Bookmark": "Bookmark",
+    "Choose Date": "Choose Date",
+    "Choose Hour": "Choose Hour",
+    "Cancel": "Cancel",
+    "Loading": "Loading",
+    "Get": "Get",
+    "Show 12 Growth": "Show 12 Growth",
+
+    "Period": "Period",
+    "House": "House",
+    "House Direction": "House Direction",
+    "Door Direction": "Door Direction",
+    "Destiny Hour": "Destiny Hour",
+    "Heavenly Three Doors": "Heavenly Three Doors",
+
+    "From": "From",
+    "To": "To",
+
+    "TamThienMon": {
+      "3 Victory Palace": "3 Victory Palace",
+      "Type": "Type",
+      "Divine Light": "V3",
+      "Blessing": "V2",
+      "Force": "V1",
+      "Force & Blessing": "Force & Blessing",
+      "Force & Divine Light": "Force & Divine Light",
+      "Blessing & Divine Light": "Blessing & Divine Light",
+      "Name": "Name",
+      "Tian Yi": "Tian Yi",
+      "9 Heaven": "9 Heaven",
+      "Life": "Life",
+      "Life 9 Heaven": "Life 9 Heaven",
+      "Life Tian Yi": "Life Tian Yi",
+      "9 Heaven Tian Yi": "",
+      "Palace": "Palace",
+      "Destiny": "Destiny",
+      "Destiny palaces": "Destiny palaces",
+      "Star": "Star",
+      "Spirit": "Spirit",
+      "Door": "Door"
+    },
+
+    "KyMonDetail2": {
+      "Destiny palaces": "Destiny palaces",
+      "Soul": "Soul",
+      "Money": "Money",
+      "Job": "Job",
+      "Asset": "Asset",
+      "Health": "Health",
+      "Knowledge": "Knowledge",
+      "Risk": "Risk",
+      "Position": "Position",
+      "Sickness": "Sickness",
+      "Study": "Study",
+      "Wife": "Wife",
+      "Husband": "Husband",
+      "Relationship": "Relationship",
+      "Divine Light": "V3",
+      "Blessing": "V2",
+      "Force": "V1"
+    },
+
+    "KyMonDetail": {
+      "centerContent": {
+        "Earthly Four Gates": "Earthly Four Gates",
+        "Fan Yin Door": "Fan Yin Door",
+        "Fan Yin Star": "Fan Yin Star",
+        "Fu Yin Door": "Fu Yin Door",
+        "Fu Yin Star": "Fu Yin Star",
+        "Fan Yin": "Fan Yin",
+        "Fu Yin": "Fu Yin",
+        "Tian Yi Noble Man": "Tian Yi Noble Man",
+        "Five do not meet Hour": "Five do not meet Hour",
+        "Heavenly Dazzling Hour Structure": "Heavenly Dazzling Hour Structure"
+      }
+    },
+
+    "LapChienLuoc": {
+      "Qi Men Chart": "Qi Men Chart",
+      "Palace": "Palace",
+      "Good Structure": "Good Structure",
+      "Star": "Star",
+      "Spirit": "Spirit",
+      "Door": "Door",
+      "Heaven Stem": "Heaven Stem",
+      "Earth Stem": "Earth Stem",
+      "Include Hour Stem": "Include Hour Stem",
+      "DE": "DE",
+      "Horse": "Horse",
+      "Include Bad Structure": "Include Bad Structure"
+    },
+
+    "KyMonTableNote": {
+      "Type": "Type",
+      "Structure": "Structure",
+      "Lead stem": "Lead stem",
+      "Envoy": "Envoy",
+      "Chief": "Chief",
+      "Method": "Method",
+      "Star path": "Star path",
+      "12 Officer": "12 Officer",
+      "28 Constellation": "28 Constellation",
+      "Description": "Description",
+      "Yin": "Yin",
+      "Yang": "Yang",
+      "Zhi Run": "Zhi Run",
+      "Rotating": "Rotating",
+      "Note": "Note",
+      "DE": "DE",
+      "Horse": "Horse",
+      "Grave": "Grave",
+      "Door Counter Palace": "Door Counter Palace",
+      "Palace Counter Door": "Palace Counter Door",
+      "Door Produces Palace": "Door Produces Palace",
+      "Palace Produces Door": "Palace Produces Door",
+      "Prosperous": "Prosperous",
+      "Abandoned": "Abandoned",
+      "Weak": "Weak",
+      "Trap": "Trap",
+      "Death": "Death",
+      "menhType": {
+        "Goat blade": "Goat blade",
+        "Knowledge": "Knowledge",
+        "School": "School",
+        "Yang Nobleman": "Yang Nobleman",
+        "Yin Nobleman": "Yin Nobleman"
+      }
+    },
+
+    "KyMonKey": {
+      "Dragon": "Dragon",
+      "E Zhen Rabbit": "E Zhen Rabbit",
+      "Tiger": "Tiger",
+      "NE Gen": "NE Gen",
+      "Snake": "Snake",
+      "S Li Horse": "S Li Horse",
+      "Goat": "Goat",
+      "Ox": "Ox",
+      "N Kan Rat": "N Kan Rat",
+      "Monkey": "Monkey",
+      "W Dui Rooster": "W Dui Rooster",
+      "Dog": "Dog",
+      "NW Qian": "NW Qian",
+      "Pig": "Pig",
+      "SE Xun": "SE Xun",
+      "SW Kun": "SW Kun"
+    },
+
+    "Time": {
+      "Hour": "Hour",
+      "Date": "Date",
+      "Month": "Month",
+      "Year": "Year",
+      "Datetime": "Datetime"
+    },
+
+    "Direction": {
+      "Southeast": "Southeast",
+      "South": "South",
+      "Southwest": "Southwest",
+      "East": "East",
+      "West": "West",
+      "Northeast": "Northeast",
+      "North": "North",
+      "Northwest": "Northwest"
+    }
+  }
+}

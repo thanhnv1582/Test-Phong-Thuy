@@ -1,0 +1,175 @@
+{
+  "translation": {
+    "_local": "vi",
+
+    "Qi Men Strategy": "Kỳ Môn Chiến Lược",
+    "Qi Men Dun Jia Pro": "Kỳ Môn Độn Giáp Pro",
+
+    "Bookmark": "Đánh Dấu Trang",
+    "Choose Date": "Chọn Ngày",
+    "Choose Hour": "Chọn Giờ",
+    "Cancel": "Huỷ Bỏ",
+    "Loading": "Đang tải",
+    "Get": "Đi Đến",
+    "Show 12 Growth": "Vòng trường sinh",
+
+    "Period": "Vận",
+    "House": "Nhà",
+    "House Direction": "Hướng Nhà",
+    "Door Direction": "Hướng Cửa",
+    "Destiny Hour": "Giờ Mệnh Cung",
+    "Heavenly Three Doors": "Thiên tam môn",
+
+    "From": "Từ",
+    "To": "Đến",
+
+    "TamThienMon": {
+      "3 Victory Palace": "Tam Thắng",
+      "Type": "Loại",
+      "Divine Light": "V3",
+      "Blessing": "V2",
+      "Force": "V1",
+      "Force & Blessing": "V1V2",
+      "Force & Divine Light": "V1V3",
+      "Blessing & Divine Light": "V2V3",
+      "Name": "Tên",
+      "Tian Yi": "Thiên Ất",
+      "9 Heaven": "cửu Thiên",
+      "Life": "Sinh",
+      "Life 9 Heaven": "Sinh Môn Cửu Thiên",
+      "Life Tian Yi": "Sinh Môn Thiên Ất",
+      "9 Heaven Tian Yi": "Cửu Thiên Thiên Ất",
+      "Palace": "Cung",
+      "Destiny": "Mệnh",
+      "Destiny palaces": "Mệnh cung",
+      "Star": "Cửu Tinh",
+      "Spirit": "Thần",
+      "Door": "Môn"
+    },
+
+    "KyMonDetail2": {
+      "Destiny palaces": "Mệnh cung",
+      "Soul": "Linh Hồn",
+      "Money": "Tài bạch",
+      "Job": "Quan Lộc",
+      "Asset": "Điền Trạch",
+      "Health": "Sức Khoẻ",
+      "Knowledge": "Kiến Thức",
+      "Risk": "Phong hiểm",
+      "Position": "Địa vị",
+      "Sickness": "Tật ách",
+      "Study": "Học Hành",
+      "Wife": "Vợ",
+      "Husband": "Chồng",
+      "Relationship": "Mối Quan Hệ",
+      "Divine Light": "V3",
+      "Blessing": "V2",
+      "Force": "V1"
+    },
+
+    "KyMonDetail": {
+      "centerContent": {
+        "Earthly Four Gates": "Địa tứ hộ",
+        "Fan Yin Door": "Phản Ngâm Môn",
+        "Fan Yin Star": "Phản Ngâm Tinh",
+        "Fu Yin Door": "Phục Ngâm Môn",
+        "Fu Yin Star": "Phục Ngâm Tinh",
+        "Fan Yin": "Phản Ngâm",
+        "Fu Yin": "Phục Ngâm",
+        "Tian Yi Noble Man": "Quý Nhân Đăng Thiên Môn",
+        "Five do not meet Hour": "Ngũ bất ngộ thời",
+        "Heavenly Dazzling Hour Structure": "Thiên hiển thời cách"
+      }
+    },
+
+    "LapChienLuoc": {
+      "Qi Men Chart": "Bảng kỳ môn",
+      "Palace": "Cung Mệnh",
+      "Good Structure": "Cách cục tốt",
+      "Star": "Sao",
+      "Spirit": "Thần",
+      "Door": "Môn",
+      "Heaven Stem": "Thiên Can Thiên Bàn",
+      "Earth Stem": "Thiên Can Địa Bàn",
+      "Include Hour Stem": "Bao Gồm Can Giờ",
+      "DE": "Không Vong",
+      "Horse": "Mã",
+      "Include Bad Structure": "Bao Gồm Cách Cục Xấu"
+    },
+
+    "KyMonTableNote": {
+      "Type": "Loại",
+      "Structure": "Bảng cách cục",
+      "Lead stem": "Phù Đầu",
+      "Envoy": "Trực Sử",
+      "Chief": "Trực Phù",
+      "Method": "Phương Pháp",
+      "Star path": "Cửu Tinh",
+      "12 Officer": "12 Trực",
+      "28 Constellation": "28 Sao",
+      "Description": "Mô Tả",
+      "Yin": " m",
+      "Yang": "Dương",
+      "Zhi Run": "Trí Nhuận",
+      "Rotating": "Chuyển Bản",
+      "Note": "Lưu Ý",
+      "DE": "Không Vong",
+      "Horse": "Mã",
+      "Grave": "Mộ",
+      "Door Counter Palace": "Môn bách",
+      "Palace Counter Door": "Cung bức",
+      "Door Produces Palace": "Môn sinh cung",
+      "Palace Produces Door": "Cung sinh môn",
+      "Prosperous": "Đế Vượng",
+      "Abandoned": "Tướng",
+      "Weak": "Hưu",
+      "Trap": "Tù",
+      "Death": "Tử",
+      "menhType": {
+        "Goat blade": "Dương nhẫn",
+        "Knowledge": "Kiến Thức",
+        "School": "Học Đường",
+        "Yang Nobleman": "Dương Quý Nhân",
+        "Yin Nobleman": " m quý nhân"
+      }
+    },
+
+    "KyMonKey": {
+      "Dragon": "Thìn",
+      "E Zhen Rabbit": "Đông Chấn Mão",
+      "Tiger": "Dần",
+      "NE Gen": "Đông Bắc Cấn",
+      "Snake": "Tỵ",
+      "S Li Horse": "Nam Ly Ngọ",
+      "Goat": "Mùi",
+      "Ox": "Sửu",
+      "N Kan Rat": "Bắc Khảm Tý",
+      "Monkey": "Thân",
+      "W Dui Rooster": "Tây Đoài Dậu",
+      "Dog": "Tuất",
+      "NW Qian": "Tây Bắc Càn",
+      "Pig": "Hợi",
+      "SE Xun": "Đông Nam Tốn",
+      "SW Kun": "Tây Nam Khôn"
+    },
+
+    "Time": {
+      "Hour": "Giờ",
+      "Date": "Ngày",
+      "Month": "Tháng",
+      "Year": "Năm",
+      "Datetime": "Ngày giờ"
+    },
+
+    "Direction": {
+      "Southeast": "Đông Nam",
+      "South": "Nam",
+      "Southwest": "Tây Nam",
+      "East": "Đông",
+      "West": "Tây",
+      "Northeast": "Đông Bắc",
+      "North": "Bắc",
+      "Northwest": "Tây Bắc"
+    }
+  }
+}
